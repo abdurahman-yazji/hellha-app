@@ -82,7 +82,7 @@ class _DiagnosisPageState extends State<DiagnosisPage> {
   void _showImageMessage() {
     ScaffoldMessenger.of(context).showSnackBar(
       const SnackBar(
-        content: Text('سنضيف اختيار صورة العطل في خطوة ربط الصور.'),
+        content: Text('ستتوفر ميزة إضافة الصور في النسخة القادمة.'),
       ),
     );
   }
