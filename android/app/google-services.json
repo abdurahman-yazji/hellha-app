@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1046100652256",
+    "project_id": "hellha",
+    "storage_bucket": "hellha.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046100652256:android:a9d90e13f9ff971d61a085",
+        "android_client_info": {
+          "package_name": "com.hellha.hellha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046100652256-mn3lmd8eg6a4jsj7rpcabciqcfh1tc4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellha.hellha",
+            "certificate_hash": "774f6e5d46b0eb35efd1289d97242198649d6fb7"
+          }
+        },
+        {
+          "client_id": "1046100652256-tse2qsmoh63hl3mnbi95340q6jqvlqs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoswv3Wc_jHRwwRoZBB1eMno2GsXYrawg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046100652256-tse2qsmoh63hl3mnbi95340q6jqvlqs2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1046100652256-ahgvoamo22lgh889ohlqpo42f6hdbtqu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hellha.hellha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
